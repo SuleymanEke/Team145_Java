@@ -6,7 +6,7 @@ public class C08_sifreKontrolu {
     public static void main(String[] args) {
 
         //Kullanicidan bir seifre isteyip,
-        //asagidaki sartlari kontrol edin ve kullaniciya duzeltmesi gereken tum eksiklikleri syleyin,
+        //asagidaki sartlari kontrol edin ve kullaniciya duzeltmesi gereken tum eksiklikleri soyleyin,
         //eger tum sartlari saglarsa "sifre basariyla kaydedildi" diye yazdirin,
         // - ilk harf kucuk olmali
         //- son karakter rakam olmali
